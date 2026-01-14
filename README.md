@@ -4,7 +4,8 @@ End-to-end ETL pipeline for Olist e-commerce data using AWS S3 and PostgreSQL. I
 
 ( CSV-olist → S3 → RDS → Data Mart → CSV export )
 
-\## Project Structure![aws](https://github.com/user-attachments/assets/547cfd59-ea9b-4ffe-9568-cc982f120bd6)
+\## Project Structure!
+![aws](https://github.com/user-attachments/assets/14129e85-20f8-4274-8a15-659012357dc9)
 
 aws-pipeline/
 
@@ -85,6 +86,7 @@ aws-pipeline/
 
 <img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/909c2398-433d-423e-b815-e76659503883" />  
 <img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/241c37da-8fb3-49fc-a658-d0f7ae6909fe" />
+
 
 
 
