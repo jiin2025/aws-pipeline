@@ -76,7 +76,6 @@ aws-pipeline/
 
 \- Logs: Execution status messages in the console.
 
-<img width="1045" height="660" alt="image" src="https://github.com/user-attachments/assets/761ae487-ff3a-4972-8cab-f2f234367d29" />
 
 <img width="1045" height="660" alt="image" src="https://github.com/user-attachments/assets/6f629ad9-6498-465b-a710-3a063149c4b6" />
 
@@ -84,7 +83,9 @@ aws-pipeline/
 
 <img width="854" height="1037" alt="image" src="https://github.com/user-attachments/assets/caf44b12-4c31-44e9-bcbc-b2931e6219cc" />
 
-<img width="533" height="459" alt="image" src="https://github.com/user-attachments/assets/909c2398-433d-423e-b815-e76659503883" />  <img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/241c37da-8fb3-49fc-a658-d0f7ae6909fe" />
+<img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/909c2398-433d-423e-b815-e76659503883" />  
+<img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/241c37da-8fb3-49fc-a658-d0f7ae6909fe" />
+
 
 
 
