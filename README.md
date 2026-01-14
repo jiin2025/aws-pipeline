@@ -83,9 +83,10 @@ aws-pipeline/
 
 <img width="303" height="335" alt="image" src="https://github.com/user-attachments/assets/9f0cd805-81a0-4ea8-9dea-bfeeea0f019f" />
 
-<img width="380" height="505" alt="image" src="https://github.com/user-attachments/assets/ebc0f586-7b58-40f7-9c08-3087abd4bc07" />
+<img width="482" height="585" alt="image" src="https://github.com/user-attachments/assets/378fd0aa-05cd-4448-bcae-0848cd5603a1" />
 
 <img width="635" height="284" alt="image" src="https://github.com/user-attachments/assets/ff2cea9d-c1cb-4049-a63c-a97423b93453" />
+
 
 
 
